@@ -1,1 +1,1 @@
-Its time to write the second chapter.
+Its time to write the second chapter in a different branch.
